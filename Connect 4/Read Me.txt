@@ -1,0 +1,13 @@
+Instructions for running the file:
+
+1. Open a command prompt window and go to the directory the java program Assignment3.zip
+
+2. Type 'unzip Assignment3.zip'
+
+3. Place the file you would like to process is the ./res/ folder (You will be asked for the file name when the program runs)
+
+4. Type 'javac Assignment3.java' and press enter to compile your code. If there are no errors in my code (there aren't) you may proceed
+
+5. Now, type ' java Assignment3 ' to run your program.
+
+6. You will be able to run the program
